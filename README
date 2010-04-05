@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3044
+
+Based on the script and notation from vimscript #1439. This has been updated for the newer format of py_compile.
+
+From the original description:
+"This compiler script does not run the source through the python interpreter, but instead uses the py_compile package to check for syntax errors.  This allows for a development cycle similar to a compiled language - edit, compile, run."
+ 
